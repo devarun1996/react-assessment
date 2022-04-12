@@ -1,0 +1,12 @@
+.active.border-bottom{
+    color: blue;
+}
+
+.active.border-bottom:hover{
+    color: blue;
+}
+
+
+.border-bottom:hover{
+    color: lightblue;
+};

@@ -1,0 +1,9 @@
+.headerLinks:hover
+ {
+    color: 'blue';
+}
+
+.headerLinks:active
+ {
+    color: 'blue';
+}
